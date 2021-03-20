@@ -8,6 +8,7 @@ version 3.8
 required libraries:
 - requests
 - json
+- sys
 
 ## running script
 ```
